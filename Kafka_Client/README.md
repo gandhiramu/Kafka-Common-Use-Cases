@@ -1,0 +1,1 @@
+Simple plan to develop wrapper application for Kafka client
